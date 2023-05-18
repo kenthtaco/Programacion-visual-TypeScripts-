@@ -4,7 +4,7 @@ let suma = numero1 + 10;
 let suma2 = numero1 + "10";
 console.log(suma);
 console.log(suma2);
-let variable = "40";
+let variable = "ejmeplo";
 console.log("La variable es: " + variable);
 // transformacion de string a number
 let transformacion = parseInt("2345");
